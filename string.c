@@ -1,5 +1,7 @@
 nclude <stdio.h>
-
+#commens added to file
+#comment
+#comment
 int my_strlen(char *s)
 {
    char *p = s;
